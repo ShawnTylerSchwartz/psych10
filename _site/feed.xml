@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-01-10T23:48:47-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Psych 10 Sections 6 and 7</title><subtitle>Psych 10 discussion sections with Shawn Schwartz at Stanford.</subtitle><entry><title type="html">Week 1: Welcome to Psych 10 Section!</title><link href="http://localhost:4000/2023/01/10/week1-welcome-to-psych10.html" rel="alternate" type="text/html" title="Week 1: Welcome to Psych 10 Section!" /><published>2023-01-10T00:00:00-08:00</published><updated>2023-01-10T00:00:00-08:00</updated><id>http://localhost:4000/2023/01/10/week1-welcome-to-psych10</id><content type="html" xml:base="http://localhost:4000/2023/01/10/week1-welcome-to-psych10.html"><![CDATA[<figure class="highlight"><pre><code class="language-r" data-lang="r"><span class="n">print_hello</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="k">function</span><span class="p">(</span><span class="n">class</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w">
+
+</span><span class="n">print</span><span class="p">(</span><span class="n">paste</span><span class="p">(</span><span class="s2">"Hello"</span><span class="p">,</span><span class="w"> </span><span class="n">class</span><span class="p">))</span><span class="w">
+
+</span><span class="p">}</span><span class="w">
+
+</span><span class="n">print_hello</span><span class="p">(</span><span class="s1">'Psych 10'</span><span class="p">)</span><span class="w">
+
+</span><span class="c1"># prints 'Hello, Psych 10' to the R console.</span></code></pre></figure>
+
+<p>Check out the <a href="https://docs.google.com/presentation/d/1UQjKQIEXXdoz_vH8e95wGbP3LJihteldOLGNUBNVYu0/edit?usp=sharing" target="\_blank">week 1 slides</a> here!</p>]]></content><author><name></name></author><summary type="html"><![CDATA[print_hello &lt;- function(class) {]]></summary></entry></feed>
