@@ -21,11 +21,11 @@
 title: Psych 10 2023 - Sections 6/7
 email: stschwartz [at] stanford [dot] edu
 description: Psych 10 discussion sections with Shawn Schwartz at Stanford.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://shawnschwartz.com" # the subpath of your site, e.g. /blog
+baseurl: "/psych10" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: shawnschwartz_
 github_username: shawntylerschwartz
-
+permalink: pretty
 # Build settings
 theme: minima
 plugins:
