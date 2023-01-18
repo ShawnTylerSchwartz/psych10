@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-01-10T23:48:47-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Psych 10 Sections 6 and 7</title><subtitle>Psych 10 discussion sections with Shawn Schwartz at Stanford.</subtitle><entry><title type="html">Week 1: Welcome to Psych 10 Section!</title><link href="http://localhost:4000/2023/01/10/week1-welcome-to-psych10.html" rel="alternate" type="text/html" title="Week 1: Welcome to Psych 10 Section!" /><published>2023-01-10T00:00:00-08:00</published><updated>2023-01-10T00:00:00-08:00</updated><id>http://localhost:4000/2023/01/10/week1-welcome-to-psych10</id><content type="html" xml:base="http://localhost:4000/2023/01/10/week1-welcome-to-psych10.html"><![CDATA[<figure class="highlight"><pre><code class="language-r" data-lang="r"><span class="n">print_hello</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="k">function</span><span class="p">(</span><span class="n">class</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/psych10/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/psych10/" rel="alternate" type="text/html" /><updated>2023-01-18T11:13:54-08:00</updated><id>http://localhost:4000/psych10/feed.xml</id><title type="html">Psych 10 2023 - Sections 6/7</title><subtitle>Psych 10 discussion sections with Shawn Schwartz at Stanford.</subtitle><entry><title type="html">Week 2: Getting Started on Project Milestone 1</title><link href="http://localhost:4000/psych10/2023/01/18/week2/" rel="alternate" type="text/html" title="Week 2: Getting Started on Project Milestone 1" /><published>2023-01-18T00:00:00-08:00</published><updated>2023-01-18T00:00:00-08:00</updated><id>http://localhost:4000/psych10/2023/01/18/week2</id><content type="html" xml:base="http://localhost:4000/psych10/2023/01/18/week2/"><![CDATA[<p>Today we’ll focus on getting started with Project Milestone 1.</p>
+
+<p>Your first milestone is <strong>due Sunday, 1/29 by 11:59pm PT to Canvas</strong>.</p>
+
+<p><em>Note: Please have each member of your group submit a copy of the same notebook to Canvas.</em></p>
+
+<h4 id="project-milestone-1-goals">Project Milestone 1 Goals:</h4>
+
+<ul>
+  <li>Identify your question and explain why you are asking it</li>
+  <li>Identify, briefly describe, and read in your dataset to R</li>
+  <li>Identify and describe the variables you will use to test your hypothesis</li>
+  <li>Identify how you will need to clean/wrangle your dataset</li>
+  <li>Identify limitations of your project as a whole</li>
+</ul>
+
+<h4 id="in-class-today-you-should">In class today, you should:</h4>
+
+<ul>
+  <li>continue discussions with your group about your shared topics of interest and the direction you’re thinking of going in for your project</li>
+  <li>begin exploring possible datasets (using either the dataset resources that I’ve provided and/or looking online for other datasets, e.g., Kaggle, datasets from previously published papers, etc.)</li>
+  <li>brainstorm potential research questions for your project</li>
+  <li>start working on filling out the <strong>Milestone 1 Notebook Skeleton</strong> (which includes guiding questions for your group to carefully think about when designing your research question, hypothesis, and dataset)</li>
+</ul>
+
+<p>I’ll be walking around chatting with each group after you’ve had some time to pick back up on where the discussions with your group left off from last time.</p>
+
+<h4 id="by-the-end-of-class-today-you-should">By the end of class today, you should:</h4>
+
+<ul>
+  <li><strong>elect one group member to email Shawn a brief summary of the question(s) your group is actively considering addressing for the final project (please CC your other group members on the email)</strong></li>
+  <li>I’ll then aim to get you feedback on your current questions before the start of next week’s section</li>
+</ul>
+
+<h4 id="links">Links:</h4>
+
+<ul>
+  <li><a href="https://colab.research.google.com/drive/12V6tVNJhH1ZwyPx-nV0r1BZxNyZWmsCT?usp=sharing" target="\_blank">Milestone 1 Notebook <strong>(please make a copy directly into your Google Colab drive)</strong></a></li>
+  <li><a href="https://docs.google.com/spreadsheets/d/1RBbfhFiX-MFcwT6FgHcr6Lyar5KS-hkTalI-fPgwoxQ/edit?usp=sharing" target="\_blank">Group Sign Up Sheet</a></li>
+  <li><a href="https://docs.google.com/spreadsheets/d/1PyrZn0tKfovrW8jdR9JZiHFUmMS-z6enMoMZ8f0nK-4/edit?usp=sharing" target="\_blank">Potential Project Dataset Sources</a></li>
+  <li><a href="https://docs.google.com/document/d/1HLLD2c-O8W1m1hZJuj3S9ydLqcMmFeINCZSmepP4CyM/edit?usp=sharing" target="\_blank">Project Description and Outline</a></li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Today we’ll focus on getting started with Project Milestone 1.]]></summary></entry><entry><title type="html">Week 1: Welcome to Psych 10 Section!</title><link href="http://localhost:4000/psych10/2023/01/10/week1-welcome-to-psych10/" rel="alternate" type="text/html" title="Week 1: Welcome to Psych 10 Section!" /><published>2023-01-10T00:00:00-08:00</published><updated>2023-01-10T00:00:00-08:00</updated><id>http://localhost:4000/psych10/2023/01/10/week1-welcome-to-psych10</id><content type="html" xml:base="http://localhost:4000/psych10/2023/01/10/week1-welcome-to-psych10/"><![CDATA[<figure class="highlight"><pre><code class="language-r" data-lang="r"><span class="n">print_hello</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="k">function</span><span class="p">(</span><span class="n">class</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w">
 
 </span><span class="n">print</span><span class="p">(</span><span class="n">paste</span><span class="p">(</span><span class="s2">"Hello"</span><span class="p">,</span><span class="w"> </span><span class="n">class</span><span class="p">))</span><span class="w">
 

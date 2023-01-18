@@ -1,0 +1,44 @@
+---
+layout: post
+title: "Week 2: Getting Started on Project Milestone 1"
+---
+
+Today we'll focus on getting started with Project Milestone 1.
+
+Your first milestone is **due Sunday, 1/29 by 11:59pm PT to Canvas**.
+
+_Note: Please have each member of your group submit a copy of the same notebook to Canvas._
+
+#### Project Milestone 1 Goals:
+
+- Identify your question and explain why you are asking it
+- Identify, briefly describe, and read in your dataset to R
+- Identify and describe the variables you will use to test your hypothesis
+- Identify how you will need to clean/wrangle your dataset
+- Identify limitations of your project as a whole
+
+#### In class today, you should:
+
+- continue discussions with your group about your shared topics of interest and the direction you're thinking of going in for your project
+- begin exploring possible datasets (using either the dataset resources that I've provided and/or looking online for other datasets, e.g., Kaggle, datasets from previously published papers, etc.)
+- brainstorm potential research questions for your project
+- start working on filling out the **Milestone 1 Notebook Skeleton** (which includes guiding questions for your group to carefully think about when designing your research question, hypothesis, and dataset)
+
+I'll be walking around chatting with each group after you've had some time to pick back up on where the discussions with your group left off from last time.
+
+#### By the end of class today, you should:
+
+- **elect one group member to email Shawn a brief summary of the question(s) your group is actively considering addressing for the final project (please CC your other group members on the email)**
+- I'll then aim to get you feedback on your current questions before the start of next week's section
+
+#### Links:
+
+- [Milestone 1 Notebook **(please make a copy directly into your Google Colab drive)**][milestone-one-notebook]{:target="\_blank"}
+- [Group Sign Up Sheet][group-sign-ups]{:target="\_blank"}
+- [Potential Project Dataset Sources][example-data-sets]{:target="\_blank"}
+- [Project Description and Outline][project-description]{:target="\_blank"}
+
+[milestone-one-notebook]: https://colab.research.google.com/drive/12V6tVNJhH1ZwyPx-nV0r1BZxNyZWmsCT?usp=sharing
+[group-sign-ups]: https://docs.google.com/spreadsheets/d/1RBbfhFiX-MFcwT6FgHcr6Lyar5KS-hkTalI-fPgwoxQ/edit?usp=sharing
+[example-data-sets]: https://docs.google.com/spreadsheets/d/1PyrZn0tKfovrW8jdR9JZiHFUmMS-z6enMoMZ8f0nK-4/edit?usp=sharing
+[project-description]: https://docs.google.com/document/d/1HLLD2c-O8W1m1hZJuj3S9ydLqcMmFeINCZSmepP4CyM/edit?usp=sharing
