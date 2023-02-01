@@ -1,4 +1,37 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/psych10/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/psych10/" rel="alternate" type="text/html" /><updated>2023-01-18T11:13:54-08:00</updated><id>http://localhost:4000/psych10/feed.xml</id><title type="html">Psych 10 2023 - Sections 6/7</title><subtitle>Psych 10 discussion sections with Shawn Schwartz at Stanford.</subtitle><entry><title type="html">Week 2: Getting Started on Project Milestone 1</title><link href="http://localhost:4000/psych10/2023/01/18/week2/" rel="alternate" type="text/html" title="Week 2: Getting Started on Project Milestone 1" /><published>2023-01-18T00:00:00-08:00</published><updated>2023-01-18T00:00:00-08:00</updated><id>http://localhost:4000/psych10/2023/01/18/week2</id><content type="html" xml:base="http://localhost:4000/psych10/2023/01/18/week2/"><![CDATA[<p>Today we’ll focus on getting started with Project Milestone 1.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/psych10/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/psych10/" rel="alternate" type="text/html" /><updated>2023-02-01T01:01:19-08:00</updated><id>http://localhost:4000/psych10/feed.xml</id><title type="html">Psych 10 2023 - Sections 6/7</title><subtitle>Psych 10 discussion sections with Shawn Schwartz at Stanford.</subtitle><entry><title type="html">Week 4: Project Milestone 2 – Data Wrangling and Visualization</title><link href="http://localhost:4000/psych10/2023/02/01/week4/" rel="alternate" type="text/html" title="Week 4: Project Milestone 2 – Data Wrangling and Visualization" /><published>2023-02-01T00:00:00-08:00</published><updated>2023-02-01T00:00:00-08:00</updated><id>http://localhost:4000/psych10/2023/02/01/week4</id><content type="html" xml:base="http://localhost:4000/psych10/2023/02/01/week4/"><![CDATA[<p>Today we’ll start wrangling our data in aims of progressing on Project Milestone 2.</p>
+
+<p>Milestone 2 is <strong>due Sunday, 2/12 by 11:59pm PT to Canvas</strong>.</p>
+
+<p><em>Note: Like before, please have each member of your group submit a copy of the same notebook to Canvas.</em></p>
+
+<h4 id="project-milestone-2-goals">Project Milestone 2 Goals:</h4>
+
+<ul>
+  <li>Clean and wrangle your data and describe this process.</li>
+  <li>Visualize and summarize each of your variables and interpret what you see.</li>
+</ul>
+
+<h4 id="in-class-today-you-should">In class today, you should:</h4>
+
+<ul>
+  <li>brainstorm with your group an approach for cleaning your data, including – for example – what columns/rows you’re going to keep, any transformations that might need to be made (like going from long –&gt; wide format or vice versa), calculating new metrics with <code class="language-plaintext highlighter-rouge">mutate()</code>, etc.</li>
+  <li>are you going to have to merge datasets? if so, by which columns will you link them by, and is there any missing and/or mismatching data that you might need to account for when doing the merge (and if so, how can you go about fixing it)?</li>
+  <li>start looking through the questions for Milestone 2 (there aren’t as many questions as the previous milestone to provide you the flexibility to really start digging deep and exploring your data)</li>
+  <li>if there are complex cleaning operations that you’re considering doing – and you’re not sure which functions from the tidyverse/base R are going to help you perform those operations – start writing down questions/googling as well as asking Shawn for support (office hours are a great extended time outside of section to work through these more complex coding issues)</li>
+  <li>on that note, I’ve also placed a few “cheat sheets” below that are helpful for data wrangling and visualizations in the <code class="language-plaintext highlighter-rouge">tidyverse</code> – feel free to check them out and experiment with different visualizations to get a grasp on what your underlying data look like!</li>
+</ul>
+
+<h4 id="about-the-milestone-2-notebook">About the Milestone 2 notebook…</h4>
+
+<p>You may have noticed that the first portion of the Milestone 2 skeleton notebook contains empty cells for the Milestone 1 questions. This is intentional so that you can build upon your project planning document as well as to constantly remind you of your research question and hypotheses as you’re digging into your data. As such, please copy-paste the contents of your Milestone 1 notebook that you turned into me on Sunday into this new skeleton so that everything stays together and your group has grounding as you all tackle this next portion of the project together – thanks!</p>
+
+<h4 id="links">Links:</h4>
+
+<ul>
+  <li><a href="https://colab.research.google.com/drive/1dVAtWNl6lZYw289fSxiWui_Nl_cERpzW?usp=sharing" target="\_blank">Milestone 2 Notebook</a></li>
+  <li><a href="https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf" target="\_blank">Data Wrangling in R Cheat Sheet</a></li>
+  <li><a href="https://www.maths.usyd.edu.au/u/UG/SM/STAT3022/r/current/Misc/data-visualization-2.1.pdf" target="\_blank">ggplot Cheat Sheet</a></li>
+</ul>]]></content><author><name>Shawn T. Schwartz</name></author><summary type="html"><![CDATA[Today we’ll start wrangling our data in aims of progressing on Project Milestone 2.]]></summary></entry><entry><title type="html">Week 2: Getting Started on Project Milestone 1</title><link href="http://localhost:4000/psych10/2023/01/18/week2/" rel="alternate" type="text/html" title="Week 2: Getting Started on Project Milestone 1" /><published>2023-01-18T00:00:00-08:00</published><updated>2023-01-18T00:00:00-08:00</updated><id>http://localhost:4000/psych10/2023/01/18/week2</id><content type="html" xml:base="http://localhost:4000/psych10/2023/01/18/week2/"><![CDATA[<p>Today we’ll focus on getting started with Project Milestone 1.</p>
 
 <p>Your first milestone is <strong>due Sunday, 1/29 by 11:59pm PT to Canvas</strong>.</p>
 
@@ -39,7 +72,7 @@
   <li><a href="https://docs.google.com/spreadsheets/d/1RBbfhFiX-MFcwT6FgHcr6Lyar5KS-hkTalI-fPgwoxQ/edit?usp=sharing" target="\_blank">Group Sign Up Sheet</a></li>
   <li><a href="https://docs.google.com/spreadsheets/d/1PyrZn0tKfovrW8jdR9JZiHFUmMS-z6enMoMZ8f0nK-4/edit?usp=sharing" target="\_blank">Potential Project Dataset Sources</a></li>
   <li><a href="https://docs.google.com/document/d/1HLLD2c-O8W1m1hZJuj3S9ydLqcMmFeINCZSmepP4CyM/edit?usp=sharing" target="\_blank">Project Description and Outline</a></li>
-</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Today we’ll focus on getting started with Project Milestone 1.]]></summary></entry><entry><title type="html">Week 1: Welcome to Psych 10 Section!</title><link href="http://localhost:4000/psych10/2023/01/10/week1-welcome-to-psych10/" rel="alternate" type="text/html" title="Week 1: Welcome to Psych 10 Section!" /><published>2023-01-10T00:00:00-08:00</published><updated>2023-01-10T00:00:00-08:00</updated><id>http://localhost:4000/psych10/2023/01/10/week1-welcome-to-psych10</id><content type="html" xml:base="http://localhost:4000/psych10/2023/01/10/week1-welcome-to-psych10/"><![CDATA[<figure class="highlight"><pre><code class="language-r" data-lang="r"><span class="n">print_hello</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="k">function</span><span class="p">(</span><span class="n">class</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w">
+</ul>]]></content><author><name>Shawn T. Schwartz</name></author><summary type="html"><![CDATA[Today we’ll focus on getting started with Project Milestone 1.]]></summary></entry><entry><title type="html">Week 1: Welcome to Psych 10 Section!</title><link href="http://localhost:4000/psych10/2023/01/10/week1-welcome-to-psych10/" rel="alternate" type="text/html" title="Week 1: Welcome to Psych 10 Section!" /><published>2023-01-10T00:00:00-08:00</published><updated>2023-01-10T00:00:00-08:00</updated><id>http://localhost:4000/psych10/2023/01/10/week1-welcome-to-psych10</id><content type="html" xml:base="http://localhost:4000/psych10/2023/01/10/week1-welcome-to-psych10/"><![CDATA[<figure class="highlight"><pre><code class="language-r" data-lang="r"><span class="n">print_hello</span><span class="w"> </span><span class="o">&lt;-</span><span class="w"> </span><span class="k">function</span><span class="p">(</span><span class="n">class</span><span class="p">)</span><span class="w"> </span><span class="p">{</span><span class="w">
 
 </span><span class="n">print</span><span class="p">(</span><span class="n">paste</span><span class="p">(</span><span class="s2">"Hello"</span><span class="p">,</span><span class="w"> </span><span class="n">class</span><span class="p">))</span><span class="w">
 
@@ -49,4 +82,4 @@
 
 </span><span class="c1"># prints 'Hello, Psych 10' to the R console.</span></code></pre></figure>
 
-<p>Check out the <a href="https://docs.google.com/presentation/d/1UQjKQIEXXdoz_vH8e95wGbP3LJihteldOLGNUBNVYu0/edit?usp=sharing" target="\_blank">week 1 slides</a> here!</p>]]></content><author><name></name></author><summary type="html"><![CDATA[print_hello &lt;- function(class) {]]></summary></entry></feed>
+<p>Check out the <a href="https://docs.google.com/presentation/d/1UQjKQIEXXdoz_vH8e95wGbP3LJihteldOLGNUBNVYu0/edit?usp=sharing" target="\_blank">week 1 slides</a> here!</p>]]></content><author><name>Shawn T. Schwartz</name></author><summary type="html"><![CDATA[print_hello &lt;- function(class) {]]></summary></entry></feed>

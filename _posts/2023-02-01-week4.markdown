@@ -1,0 +1,38 @@
+---
+layout: post
+author: "Shawn T. Schwartz"
+title: "Week 4: Project Milestone 2 -- Data Wrangling and Visualization"
+---
+
+Today we'll start wrangling our data in aims of progressing on Project Milestone 2.
+
+Milestone 2 is **due Sunday, 2/12 by 11:59pm PT to Canvas**.
+
+_Note: Like before, please have each member of your group submit a copy of the same notebook to Canvas._
+
+#### Project Milestone 2 Goals:
+
+- Clean and wrangle your data and describe this process.
+- Visualize and summarize each of your variables and interpret what you see.
+
+#### In class today, you should:
+
+- brainstorm with your group an approach for cleaning your data, including -- for example -- what columns/rows you're going to keep, any transformations that might need to be made (like going from long --> wide format or vice versa), calculating new metrics with `mutate()`, etc.
+- are you going to have to merge datasets? if so, by which columns will you link them by, and is there any missing and/or mismatching data that you might need to account for when doing the merge (and if so, how can you go about fixing it)?
+- start looking through the questions for Milestone 2 (there aren't as many questions as the previous milestone to provide you the flexibility to really start digging deep and exploring your data)
+- if there are complex cleaning operations that you're considering doing -- and you're not sure which functions from the tidyverse/base R are going to help you perform those operations -- start writing down questions/googling as well as asking Shawn for support (office hours are a great extended time outside of section to work through these more complex coding issues)
+- on that note, I've also placed a few "cheat sheets" below that are helpful for data wrangling and visualizations in the `tidyverse` -- feel free to check them out and experiment with different visualizations to get a grasp on what your underlying data look like!
+
+#### About the Milestone 2 notebook...
+
+You may have noticed that the first portion of the Milestone 2 skeleton notebook contains empty cells for the Milestone 1 questions. This is intentional so that you can build upon your project planning document as well as to constantly remind you of your research question and hypotheses as you're digging into your data. As such, please copy-paste the contents of your Milestone 1 notebook that you turned into me on Sunday into this new skeleton so that everything stays together and your group has grounding as you all tackle this next portion of the project together -- thanks!
+
+#### Links:
+
+- [Milestone 2 Notebook][milestone-two-notebook]{:target="\_blank"}
+- [Data Wrangling in R Cheat Sheet][data-wrangling-cheatsheet]{:target="\_blank"}
+- [ggplot Cheat Sheet][ggplot-cheatsheet]{:target="\_blank"}
+
+[milestone-two-notebook]: https://colab.research.google.com/drive/1dVAtWNl6lZYw289fSxiWui_Nl_cERpzW?usp=sharing
+[data-wrangling-cheatsheet]: https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf
+[ggplot-cheatsheet]: https://www.maths.usyd.edu.au/u/UG/SM/STAT3022/r/current/Misc/data-visualization-2.1.pdf

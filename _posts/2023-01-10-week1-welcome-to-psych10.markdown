@@ -1,5 +1,6 @@
 ---
 layout: post
+author: "Shawn T. Schwartz"
 title: "Week 1: Welcome to Psych 10 Section!"
 ---
 
