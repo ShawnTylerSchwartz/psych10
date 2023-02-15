@@ -1,0 +1,20 @@
+---
+layout: post
+author: "Shawn T. Schwartz"
+title: "Week 6: Project Milestone 3 -- Data Analysis and Interpretation"
+---
+
+Milestone 3 is **due Sunday, 3/5 by 11:59pm PT to Canvas**.
+
+#### Project Milestone 3 Goals:
+
+- Test your hypothesis using the appropriate statistical tests.
+- Estimate how large the effect is by using one of the following: effect size, confidence intervals, Bayes factors
+- Visualize your results, including one figure that summarizes your primary result.
+- Interpret your results in writing.
+
+#### Links
+
+- [Milestone 3 Notebook][milestone-three-notebook]{:target="\blank"}
+
+[milestone-three-notebook]: https://colab.research.google.com/drive/1495YHP7RKX-duPufDdmTxqbDE3GpbxVZ?usp=sharing
