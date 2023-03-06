@@ -1,4 +1,47 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/psych10/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/psych10/" rel="alternate" type="text/html" /><updated>2023-02-01T01:01:19-08:00</updated><id>http://localhost:4000/psych10/feed.xml</id><title type="html">Psych 10 2023 - Sections 6/7</title><subtitle>Psych 10 discussion sections with Shawn Schwartz at Stanford.</subtitle><entry><title type="html">Week 4: Project Milestone 2 – Data Wrangling and Visualization</title><link href="http://localhost:4000/psych10/2023/02/01/week4/" rel="alternate" type="text/html" title="Week 4: Project Milestone 2 – Data Wrangling and Visualization" /><published>2023-02-01T00:00:00-08:00</published><updated>2023-02-01T00:00:00-08:00</updated><id>http://localhost:4000/psych10/2023/02/01/week4</id><content type="html" xml:base="http://localhost:4000/psych10/2023/02/01/week4/"><![CDATA[<p>Today we’ll start wrangling our data in aims of progressing on Project Milestone 2.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator><link href="http://localhost:4000/psych10/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/psych10/" rel="alternate" type="text/html" /><updated>2023-03-06T11:21:51-08:00</updated><id>http://localhost:4000/psych10/feed.xml</id><title type="html">Psych 10 2023 - Sections 6/7</title><subtitle>Psych 10 discussion sections with Shawn Schwartz at Stanford.</subtitle><entry><title type="html">Week 9: Peer Review Assignment</title><link href="http://localhost:4000/psych10/2023/03/06/week9/" rel="alternate" type="text/html" title="Week 9: Peer Review Assignment" /><published>2023-03-06T00:00:00-08:00</published><updated>2023-03-06T00:00:00-08:00</updated><id>http://localhost:4000/psych10/2023/03/06/week9</id><content type="html" xml:base="http://localhost:4000/psych10/2023/03/06/week9/"><![CDATA[<p><strong>Peer Review: Due Wednesday, March 8 at 11:59 pm PT</strong></p>
+
+<p><strong>Please submit to Canvas via the <em>text box submission</em>, I’ll then download and circulate the comments to your group members!</strong></p>
+
+<p>For this component you will evaluate another team’s project. Download and open the .ipynb file for the team’s project. Please respond to the following questions:</p>
+
+<ol>
+  <li>
+    <p>What dataset is the other team analyzing and how were these data collected? Are there any issues with the data collection described? What are potential sources of bias?</p>
+  </li>
+  <li>
+    <p>In addition to the project limitations listed by the authors, are there additional limitations to what the authors can conclude from their analysis of this dataset?</p>
+  </li>
+  <li>
+    <p>After evaluating the team’s question, hypothesis, and analyses, suggest another question and/or analysis you would conduct with this data.</p>
+  </li>
+  <li>
+    <p>Do you agree with the team’s interpretation of their results? Why or why not? Are there alternative interpretations?</p>
+  </li>
+  <li>
+    <p>After evaluating the team’s presentation quality plot, identify 1 strength and 1 weakness of the plot.</p>
+  </li>
+</ol>
+
+<h4 id="peer-review-assignments-link">Peer Review Assignments Link</h4>
+
+<ul>
+  <li><a href="https://docs.google.com/spreadsheets/d/1lV3PDX2yyBABJn0i3R44vmN7sYIlcwg8PQ6BiP0wECo/edit?usp=sharing" target="\blank">Peer Review Assignments</a></li>
+</ul>]]></content><author><name>Shawn T. Schwartz</name></author><summary type="html"><![CDATA[Peer Review: Due Wednesday, March 8 at 11:59 pm PT]]></summary></entry><entry><title type="html">Week 6: Project Milestone 3 – Data Analysis and Interpretation</title><link href="http://localhost:4000/psych10/2023/02/15/week6/" rel="alternate" type="text/html" title="Week 6: Project Milestone 3 – Data Analysis and Interpretation" /><published>2023-02-15T00:00:00-08:00</published><updated>2023-02-15T00:00:00-08:00</updated><id>http://localhost:4000/psych10/2023/02/15/week6</id><content type="html" xml:base="http://localhost:4000/psych10/2023/02/15/week6/"><![CDATA[<p>Milestone 3 is <strong>due Sunday, 3/5 by 11:59pm PT to Canvas</strong>.</p>
+
+<h4 id="project-milestone-3-goals">Project Milestone 3 Goals:</h4>
+
+<ul>
+  <li>Test your hypothesis using the appropriate statistical tests.</li>
+  <li>Estimate how large the effect is by using one of the following: effect size, confidence intervals, Bayes factors</li>
+  <li>Visualize your results, including one figure that summarizes your primary result.</li>
+  <li>Interpret your results in writing.</li>
+</ul>
+
+<h4 id="links">Links</h4>
+
+<ul>
+  <li><a href="https://colab.research.google.com/drive/1495YHP7RKX-duPufDdmTxqbDE3GpbxVZ?usp=sharing" target="\blank">Milestone 3 Notebook</a></li>
+</ul>]]></content><author><name>Shawn T. Schwartz</name></author><summary type="html"><![CDATA[Milestone 3 is due Sunday, 3/5 by 11:59pm PT to Canvas.]]></summary></entry><entry><title type="html">Week 4: Project Milestone 2 – Data Wrangling and Visualization</title><link href="http://localhost:4000/psych10/2023/02/01/week4/" rel="alternate" type="text/html" title="Week 4: Project Milestone 2 – Data Wrangling and Visualization" /><published>2023-02-01T00:00:00-08:00</published><updated>2023-02-01T00:00:00-08:00</updated><id>http://localhost:4000/psych10/2023/02/01/week4</id><content type="html" xml:base="http://localhost:4000/psych10/2023/02/01/week4/"><![CDATA[<p>Today we’ll start wrangling our data in aims of progressing on Project Milestone 2.</p>
 
 <p>Milestone 2 is <strong>due Sunday, 2/12 by 11:59pm PT to Canvas</strong>.</p>
 

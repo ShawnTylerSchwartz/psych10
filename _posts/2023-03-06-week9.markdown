@@ -1,0 +1,27 @@
+---
+layout: post
+author: "Shawn T. Schwartz"
+title: "Week 9: Peer Review Assignment"
+---
+
+**Peer Review: Due Wednesday, March 8 at 11:59 pm PT**
+
+**Please submit to Canvas via the _text box submission_, I'll then download and circulate the comments to your group members!**
+
+For this component you will evaluate another team’s project. Download and open the .ipynb file for the team’s project. Please respond to the following questions:
+
+1. What dataset is the other team analyzing and how were these data collected? Are there any issues with the data collection described? What are potential sources of bias?
+
+2. In addition to the project limitations listed by the authors, are there additional limitations to what the authors can conclude from their analysis of this dataset?
+
+3. After evaluating the team’s question, hypothesis, and analyses, suggest another question and/or analysis you would conduct with this data.
+
+4. Do you agree with the team’s interpretation of their results? Why or why not? Are there alternative interpretations?
+
+5. After evaluating the team’s presentation quality plot, identify 1 strength and 1 weakness of the plot.
+
+#### Peer Review Assignments Link
+
+- [Peer Review Assignments][peer-review-assignments]{:target="\blank"}
+
+[peer-review-assignments]: https://docs.google.com/spreadsheets/d/1lV3PDX2yyBABJn0i3R44vmN7sYIlcwg8PQ6BiP0wECo/edit?usp=sharing
